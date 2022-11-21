@@ -104,7 +104,7 @@ textarea {
   text-align: center;
 }
 .white-section{
-  background-image: url(/img/flower-background.jpg);
+  background-image: url(../img/flower-background.jpg);
   background-size: cover;
   width: 100vh;
   height:800px;
